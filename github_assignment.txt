@@ -1,0 +1,8 @@
+what it does, why you think it's interesting, any questions or thoughts you have about it, etc. This
+
+This repo provides the code for "Surrounded," a project undertaken by The Homicide Report, an L.A. Times product that logs every murder in Los Angeles. This project looks at schools with high murder rates in the surrounding area, and how students and the schools cope with the violence and loss.
+The Jupyter notebook included explains in detail each step of the process of the programming for the project. They downloaded data sets for LA schools and homicides, cleaned the data, and then carried out a "spatial join" of the data, matching schools to homicides that occurred within a mile of a school. They then removed duplicates and removed shootings that occurred prior to a school's opening. Then, they analyzed the data, putting together an index of homicides within a mile of schools, by school in the past year. They created a new index of all schools with >= 50 homicides and sorted it descending.
+
+Then, they reported it out. The final story: https://www.latimes.com/projects/la-me-edu-school-safety-deaths-nearby/
+
+I have few questions and thoughts, other than "how do I do this?" It seems that they ran several custom programs that I can't make much sense of. This story used data to figure out a really important story and then complimented that finding with visualization and impressive reporting and photography.
